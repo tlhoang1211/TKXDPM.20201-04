@@ -1,0 +1,13 @@
+PHÂN CHIA CÔNG VIỆC THEO TỪNG TUẦN:
+
+UC: usecase
+
+Tuần 1:
+- Nhóm: vẽ UC tổng quan
+- Cá nhân:
+  + Hoàng: UC phân rã quản lý tài khoản (admin); UC phân rã quản lý tài khoản cá nhân (user)
+  + Duy: UC phân rã quản lý thú cưng, UC phân rã quản lý tin tức
+  + Nam: UC phân rã quản lý đơn yêu cầu, UC phân rã quản lý timeline thú cưng
+  + Quân: UC phân rã quản lý hợp đồng, UC phân rã quản lý quyên góp
+  
+Tuần 2:
