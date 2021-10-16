@@ -10,4 +10,8 @@ Tuần 1:
   + Nam: UC phân rã quản lý đơn yêu cầu, UC phân rã quản lý timeline thú cưng
   + Quân: UC phân rã quản lý hợp đồng, UC phân rã quản lý quyên góp
   
-Tuần 2:
+Tuần 2: Đặc tả usecase - Biểu đồ Activity
++ Hoàng: Đặc tả Use Case UC01 “Đăng ký”; UC02 “Đăng nhập” ; UC03 “Đổi mật khẩu”        
++ Duy: Đặc tả Use Case UC04 “Quản lý thông tin cá nhân”; UC05 “Khoá tài khoản”; UC06 “Tìm kiếm”      
++ Nam: Đặc tả Use Case UC07 “Cứu hộ thú cưng” ; UC08 “Nhận nuôi thú cưng”; UC09 “Nhượng nuôi thú cưng” 
++ Quân: Đặc tả Use Case UC010 “Quyên góp: UC11 “Quản lý timeline”; UC12 “Quản lý bài viết”        "
